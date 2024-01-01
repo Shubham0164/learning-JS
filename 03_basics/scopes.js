@@ -22,6 +22,8 @@ const addTwo = function(num){
 }
 console.log(addTwo(5))
 
+//HOISTING//
+
 /*Here we see that the function we declared directly has no issue if we call it even before its declaration WHEREAS 
 declaring the function wrapped up in a const variable then we cannot call it before the const function declaration */
 
